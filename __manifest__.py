@@ -19,6 +19,7 @@
     'license': 'AGPL-3',
     'data': [
         'views/external_layout_clean.xml',
+        'views/report_saleorder_document.xml',
     ],
     'demo': [],
     'installable': True,
